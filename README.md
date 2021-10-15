@@ -20,5 +20,6 @@ Sentiment analysis refers to analyzing an opinion or feelings about something us
 There are many sources of public sentiment e.g. public interviews, opinion polls, surveys, etc. However, with more and more people joining social media platforms, websites like Facebook and Twitter can be parsed for public sentiment. <br />
 <br />
 The output looks like : <br />
-![](Screenshots/Capture1.JPG)
+![](Screenshots/Capture3.JPG)
 
+![](Screenshots/Capture1.JPG)
